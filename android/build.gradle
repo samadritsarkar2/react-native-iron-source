@@ -21,7 +21,7 @@ android {
 
 repositories {
     maven {
-        url "https://dl.bintray.com/ironsource-mobile/android-sdk"
+        url 'https://android-sdk.is.com/'
     }
 }
 
