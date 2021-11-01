@@ -1,14 +1,8 @@
 {
   "name": "@wowmaking/react-native-iron-source",
-  "version": "7.0.4",
+  "version": "7.0.4-1",
   "description": "React Native package to interface the ironSource SDK.  https://ironsrc.com",
   "main": "index.js",
-  "scripts": {
-    
-  },
-  "bin": {
-    "rnis-linker": "./scripts/linkSKAdNetwork.sh"
-  },
   "keywords": [
     "react-native",
     "ironsrc",
